@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily missed error in Python: an unclosed parenthesis in a function definition.  The error might manifest as a syntax error on a seemingly unrelated line after the function definition. The solution shows how to properly close the parenthesis to fix the issue. 
